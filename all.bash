@@ -1,5 +1,5 @@
 #!/bin/bash
-
+dep ensure || exit
 go test || exit
 for action in $@; do go $action; done
 
