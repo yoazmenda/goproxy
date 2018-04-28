@@ -15,7 +15,7 @@ import (
 	"testing"
 
 	"github.com/yoazmenda/goproxy"
-	"github.com/elazarl/goproxy/ext/auth"
+	"github.com/yoazmenda/goproxy/ext/auth"
 )
 
 type ConstantHanlder string

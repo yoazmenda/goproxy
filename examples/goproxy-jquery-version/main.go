@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/yoazmenda/goproxy"
-	"github.com/elazarl/goproxy/ext/html"
+	"github.com/yoazmenda/goproxy/ext/html"
 	"log"
 	"net/http"
 	"regexp"

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"github.com/yoazmenda/goproxy"
-	"github.com/elazarl/goproxy/ext/html"
+	"github.com/yoazmenda/goproxy/ext/html"
 	"io"
 	"log"
 	. "net/http"

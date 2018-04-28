@@ -9,7 +9,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	. "github.com/yoazmenda/goproxy"
-	"github.com/elazarl/goproxy/regretable"
+	"github.com/yoazmenda/goproxy/regretable"
 )
 
 var RespIsImage = ContentTypeIs("image/gif",
